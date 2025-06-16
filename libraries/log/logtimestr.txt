@@ -1,0 +1,8 @@
+2025-06-16 11:34:07,062 main.py[line:377]INFO - Mycobot is not connected yet! ! ! Please connect to myCobot first! ! !
+2025-06-16 11:34:07,062 main.py[line:377]INFO - Mycobot is not connected yet! ! ! Please connect to myCobot first! ! !
+2025-06-16 11:34:18,849 main.py[line:629]INFO - connection succeeded !
+2025-06-16 11:34:18,849 main.py[line:629]INFO - connection succeeded !
+2025-06-16 11:36:25,544 main.py[line:667]INFO - Disconnected successfully !
+2025-06-16 11:36:25,544 main.py[line:667]INFO - Disconnected successfully !
+2025-06-16 11:36:35,319 main.py[line:629]INFO - connection succeeded !
+2025-06-16 11:36:35,319 main.py[line:629]INFO - connection succeeded !
